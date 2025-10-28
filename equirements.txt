@@ -1,0 +1,9 @@
+lask
+torch
+torchvision
+pillow
+numpy
+scikit-learn
+opencv-python
+matplotlib
+pytest
